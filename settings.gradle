@@ -1,2 +1,2 @@
-include ':app',  ':kotiln', ':java',':processor',':annotated'
+include ':app',  ':kotiln', ':java'
 rootProject.name='Wang'

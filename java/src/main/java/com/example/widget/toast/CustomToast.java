@@ -1,4 +1,4 @@
-package com.example.widget;
+package com.example.widget.toast;
 
 import android.content.Context;
 import android.text.TextUtils;
