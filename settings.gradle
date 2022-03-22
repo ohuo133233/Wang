@@ -1,0 +1,2 @@
+include ':app',  ':kotiln', ':java',':processor',':annotated'
+rootProject.name='Wang'
